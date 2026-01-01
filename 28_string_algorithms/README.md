@@ -10,6 +10,8 @@ permalink: /28_string_algorithms/
 
 # 🔤 String Algorithms
 
+![String Algorithms Overview](./images/string-algo-overview.svg)
+
 <p>
   <img src="https://img.shields.io/badge/Difficulty-Medium_to_Hard-orange?style=for-the-badge" alt="Difficulty">
   <img src="https://img.shields.io/badge/Subtopics-8-blue?style=for-the-badge" alt="Subtopics">

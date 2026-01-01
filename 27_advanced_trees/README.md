@@ -10,6 +10,8 @@ permalink: /27_advanced_trees/
 
 # 🌳 Advanced Trees
 
+![Advanced Trees Overview](./images/advanced-trees-overview.svg)
+
 <p>
   <img src="https://img.shields.io/badge/Difficulty-Hard-red?style=for-the-badge" alt="Difficulty">
   <img src="https://img.shields.io/badge/Subtopics-7-blue?style=for-the-badge" alt="Subtopics">
