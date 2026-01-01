@@ -10,6 +10,8 @@ permalink: /24_graph_algorithms/
 
 # 🗺️ Advanced Graph Algorithms
 
+![Graph Algorithms Overview](./images/graph-algo-overview.svg)
+
 <p>
   <img src="https://img.shields.io/badge/Difficulty-Medium_to_Hard-orange?style=for-the-badge" alt="Difficulty">
   <img src="https://img.shields.io/badge/Subtopics-9-blue?style=for-the-badge" alt="Subtopics">

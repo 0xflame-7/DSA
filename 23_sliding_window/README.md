@@ -10,7 +10,7 @@ permalink: /23_sliding_window/
 
 # 🪟 Sliding Window
 
-![Sliding Window](../assets/images/sliding-window.svg)
+![Sliding Window Overview](./images/sliding-window-overview.svg)
 
 ### *The Art of Moving Through Data — One Window at a Time*
 

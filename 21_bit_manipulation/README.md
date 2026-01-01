@@ -10,6 +10,8 @@ permalink: /21_bit_manipulation/
 
 # 🔢 Bit Manipulation
 
+![Bit Manipulation Overview](./images/bit-overview.svg)
+
 ### *The Art of Speaking Binary*
 
 <p>
