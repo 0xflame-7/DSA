@@ -10,6 +10,8 @@ permalink: /26_sweep_line/
 
 # 📏 Sweep Line Algorithm
 
+![Sweep Line Overview](./images/sweep-line-overview.svg)
+
 <p>
   <img src="https://img.shields.io/badge/Difficulty-Medium_to_Hard-orange?style=for-the-badge" alt="Difficulty">
   <img src="https://img.shields.io/badge/Subtopics-6-blue?style=for-the-badge" alt="Subtopics">
