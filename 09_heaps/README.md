@@ -10,7 +10,7 @@ permalink: /09_heaps/
 
 # ⛰️ Heaps / Priority Queues
 
-![Heaps](../assets/images/heap.svg)
+![Heaps Overview](./images/heap-overview.svg)
 
 <p>
   <img src="https://img.shields.io/badge/Difficulty-Medium-yellow?style=for-the-badge" alt="Difficulty">

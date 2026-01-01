@@ -10,7 +10,7 @@ permalink: /10_graphs/
 
 # 🕸️ Graphs
 
-![Graph BFS DFS](../assets/images/graph-bfs-dfs.svg)
+![Graphs Overview](./images/graph-overview.svg)
 
 <p>
   <img src="https://img.shields.io/badge/Difficulty-Medium_to_Hard-orange?style=for-the-badge" alt="Difficulty">

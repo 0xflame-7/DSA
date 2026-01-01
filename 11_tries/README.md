@@ -10,7 +10,7 @@ permalink: /11_tries/
 
 # 🌳 Tries (Prefix Trees)
 
-![Tries](../assets/images/trie.svg)
+![Tries Overview](./images/trie-overview.svg)
 
 <p>
   <img src="https://img.shields.io/badge/Difficulty-Medium-yellow?style=for-the-badge" alt="Difficulty">
