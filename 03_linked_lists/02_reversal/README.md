@@ -27,6 +27,17 @@ permalink: /03_linked_lists/02_reversal/
 
 ---
 
+## 🎨 Visual Diagrams
+
+<div align="center">
+
+### Iterative Reversal Algorithm
+![Iterative Reversal](./images/iterative-reversal.svg)
+
+</div>
+
+---
+
 ## 📐 Mathematical Foundations
 
 ### 1️⃣ Reversal Invariant

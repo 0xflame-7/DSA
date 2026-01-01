@@ -40,6 +40,9 @@ permalink: /01_arrays/05_interval_problems/
 ### Interval Relationships
 ![Interval Relationships](./images/interval_relationships.svg)
 
+### Sweep Line Algorithm
+![Sweep Line](./images/sweep_line.svg)
+
 </div>
 
 ---

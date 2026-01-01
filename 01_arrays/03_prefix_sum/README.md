@@ -40,6 +40,9 @@ permalink: /01_arrays/03_prefix_sum/
 ### 2D Prefix Sum (Inclusion-Exclusion)
 ![2D Prefix Sum](./images/2d_prefix_sum.svg)
 
+### Prefix Sum Construction
+![Prefix Sum Construction](./images/prefix_sum_construction.svg)
+
 </div>
 
 ---

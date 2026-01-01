@@ -127,6 +127,12 @@ Where $\mu$ = distance to cycle, $\lambda$ = cycle length.
 ### Dutch National Flag Algorithm
 ![Dutch National Flag](./images/dutch_flag.svg)
 
+### Dutch National Flag (Detailed)
+![Dutch National Flag Detailed](./images/dutch_national_flag.svg)
+
+### Floyd's Cycle Detection
+![Floyd's Cycle](./images/floyds_cycle.svg)
+
 </div>
 
 ---

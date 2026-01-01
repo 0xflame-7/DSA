@@ -119,6 +119,11 @@ $$S' = \#s_0\#s_1\#\ldots\#s_{n-1}\#$$
   <img src="./images/centers_concept.svg" alt="Centers Concept Explanation" width="700"/>
 </p>
 
+### Palindrome Concept
+<p align="center">
+  <img src="./images/palindrome_concept.svg" alt="Palindrome Concept" width="700"/>
+</p>
+
 ---
 
 ## 💻 Code Implementations

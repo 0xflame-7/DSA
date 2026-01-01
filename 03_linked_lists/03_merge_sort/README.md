@@ -27,6 +27,23 @@ permalink: /03_linked_lists/03_merge_sort/
 
 ---
 
+## 🎨 Visual Diagrams
+
+<div align="center">
+
+### Merge Sort on Linked List
+![Merge Sort Linked List](./images/merge-sort-linked-list.svg)
+
+### Merge Two Sorted Lists
+![Merge Two Sorted Lists](./images/merge-two-sorted-lists.svg)
+
+### Merge K Sorted Lists
+![Merge K Sorted Lists](./images/merge-k-sorted-lists.svg)
+
+</div>
+
+---
+
 ## 📐 Mathematical Foundations
 
 ### Merge Sort Recurrence

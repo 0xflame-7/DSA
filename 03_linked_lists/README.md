@@ -10,7 +10,7 @@ permalink: /03_linked_lists/
 
 # 🔗 Linked Lists
 
-![Linked Lists](../assets/images/linked-list.svg)
+![Linked Lists Overview](./images/linked-list-overview.svg)
 
 <p>
   <img src="https://img.shields.io/badge/Difficulty-Easy_to_Medium-green?style=for-the-badge" alt="Difficulty">

@@ -105,6 +105,16 @@ $$\forall c \in T: \text{count}_{\text{window}}(c) \geq \text{count}_T(c)$$
   <img src="./images/group_anagrams.svg" alt="Group Anagrams Algorithm" width="750"/>
 </p>
 
+### Anagram Concept
+<p align="center">
+  <img src="./images/anagram_concept.svg" alt="Anagram Concept" width="750"/>
+</p>
+
+### Sliding Window for Anagrams
+<p align="center">
+  <img src="./images/sliding_window.svg" alt="Sliding Window" width="800"/>
+</p>
+
 ---
 
 ## 💻 Code Implementations

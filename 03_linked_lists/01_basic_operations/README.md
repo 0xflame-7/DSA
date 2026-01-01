@@ -27,6 +27,29 @@ permalink: /03_linked_lists/01_basic_operations/
 
 ---
 
+## 🎨 Visual Diagrams
+
+<div align="center">
+
+### Linked List Node Structure
+![Node Structure](./images/node-structure.svg)
+
+### Linked List Node (Alternate)
+![Linked List Node](./images/linked-list-node.svg)
+
+### Floyd's Cycle Detection
+![Floyd's Cycle Detection](./images/floyds-cycle-detection.svg)
+
+### Fast-Slow Pointer (Find Middle)
+![Fast Slow Middle](./images/fast-slow-middle.svg)
+
+### Intersection of Two Lists
+![Intersection](./images/intersection-two-lists.svg)
+
+</div>
+
+---
+
 ## 📐 Mathematical Foundations
 
 ### 1️⃣ Node Structure & Memory Layout

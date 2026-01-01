@@ -10,7 +10,7 @@ permalink: /04_stacks/
 
 # 📚 Stacks
 
-![Stacks](../assets/images/stack.svg)
+![Stacks Overview](./images/stack-overview.svg)
 
 <p>
   <img src="https://img.shields.io/badge/Difficulty-Medium-yellow?style=for-the-badge" alt="Difficulty">

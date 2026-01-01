@@ -22,6 +22,8 @@ permalink: /01_arrays/
 
 ---
 
+![Arrays Overview](./images/array-overview.svg)
+
 ### 📚 Comprehensive Documentation Available
 
 Each subfolder contains **complete mini-courses** with:

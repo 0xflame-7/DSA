@@ -40,6 +40,9 @@ permalink: /01_arrays/04_matrix_problems/
 ### Staircase Search in Sorted Matrix
 ![Staircase Search](./images/staircase_search.svg)
 
+### Spiral Traversal
+![Spiral Traversal](./images/spiral_traversal.svg)
+
 </div>
 
 ---

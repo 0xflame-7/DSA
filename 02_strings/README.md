@@ -24,6 +24,8 @@ permalink: /02_strings/
 
 ---
 
+![Strings Overview](./images/string-overview.svg)
+
 ## 📐 Mathematical Foundation
 
 ### 1️⃣ String Representation

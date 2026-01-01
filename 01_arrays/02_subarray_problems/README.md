@@ -34,8 +34,14 @@ permalink: /01_arrays/02_subarray_problems/
 ### Kadane's Algorithm
 ![Kadane's Algorithm](./images/kadane_algorithm.svg)
 
+### Kadane's Algorithm (Detailed)
+![Kadane's Algorithm Detailed](./images/kadanes_algorithm.svg)
+
 ### Sliding Window Technique
 ![Sliding Window](./images/sliding_window.svg)
+
+### Subarray Counting
+![Subarray Count](./images/subarray_count.svg)
 
 </div>
 
