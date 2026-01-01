@@ -171,13 +171,13 @@
     │   WEEK 1-2          WEEK 3-4          WEEK 5-6         WEEK 7+  │
     │   ─────────         ─────────         ─────────        ──────── │
     │                                                                 │
-    │   📦 Arrays         🧮 Sorting        🌲 Trees         🔴 DP     │
-    │   📝 Strings        🔍 Binary         📊 Graphs        ⚡ Adv.   │
-    │   🔗 Lists            Search          🏔️ Heaps        📐 Math   │
-    │   #️⃣ Hash Maps     ↩️ Recursion      🔀 Union-Find            │
+    │   📦 Arrays         🧮 Sorting     🌲 Trees         🔴 DP     │
+    │   📝 Strings        🔍 Binary      📊 Graphs        ⚡ Adv.   │
+    │   🔗 Lists            Search        🏔️ Heaps        📐 Math    │
+    │   #️⃣ Hash Maps     ↩️ Recursion      🔀 Union-Find             │
     │                                                                 │
-    │   ──────────────────────────────────────────────────────────── │
-    │   🟢 FOUNDATION     🟡 INTERMEDIATE   🔴 ADVANCED      ⭐ EXPERT │
+    │   ────────────────────────────────────────────────────────────- │
+    │   🟢 FOUNDATION     🟡 INTERMEDIATE   🔴 ADVANCED   ⭐ EXPERT │
     │                                                                 │
     └─────────────────────────────────────────────────────────────────┘
 ```
