@@ -33,8 +33,8 @@
 <td width="50%">
 
 ### 🎯 **Comprehensive Coverage**
-- **40 carefully curated topics**
-- From basic arrays to advanced DP optimizations
+- **41 carefully curated topics**
+- From basic arrays to advanced loop fusion
 - Interview-focused problem selection
 
 </td>
@@ -144,6 +144,7 @@
 | 38 | [**Online Algorithms**](./38_online_algorithms/) | 🔴 Hard | 25+ | LRU cache, streaming algorithms |
 | 39 | [**Approximation**](./39_approximation_algorithms/) | 🔴 Hard | 20+ | Set cover, TSP approximation |
 | 40 | [**DP Optimizations**](./40_dp_optimizations/) | 🔴 Hard | 60+ | Convex hull trick, divide & conquer |
+| 41 | [**Loop Fusion & Online**](./41_loop_fusion_online/) | 🔴 Hard | 30+ | Welford, Kadane, recurrence relations |
 
 </div>
 
@@ -284,6 +285,6 @@ Contributions are welcome! Here's how you can help:
 
 **Made with ❤️ by [Gaurav Goswami](https://github.com/Gaurav14cs17)**
 
-*Comprehensive DSA Guide • 800+ Problems • 40 Topics*
+*Comprehensive DSA Guide • 830+ Problems • 41 Topics*
 
 </div>
